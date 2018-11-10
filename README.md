@@ -1,5 +1,5 @@
 # employees-crud
-Handle CRUD operations on a sample Employees collection. Uses Vue framwework supercharged with Vuex for state management and materialize.css for neat css styles.
+Handle CRUD operations on a sample Employees collection. Uses Vue framwework supercharged with Vuex for state management and materialize.css for neat css styles. View demo here - https://todo-3029e.firebaseapp.com/#/
 
 ## Project setup
 ```
